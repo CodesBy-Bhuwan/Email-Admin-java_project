@@ -1,18 +1,16 @@
-## Getting Started
+This is basic java-mavan-backend project for begineer. 
+In this project we can see basic OOP concept, basic alogrithm to generate email for different departments
+To Generate E-mail for 3 specific departments
+1. Sales
+2. Developing
+3. Accounting
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The program can ask first_name, last_name and department number.
+Using this detail the program will generate a email for the user and also generate a random password.
+In this program We have used:
 
-## Folder Structure
+1. The code_Editor: VsCose
+2. Java(jdk-17)
+3. Database: MySql
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
